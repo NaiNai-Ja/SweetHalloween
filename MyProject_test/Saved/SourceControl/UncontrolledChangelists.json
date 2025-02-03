@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/SweetHalloween/SweetHalloween/MyProject_test/Content/Assets/Texture_2D/Dining_Table.uasset",
+				"D:/SweetHalloween/SweetHalloween/MyProject_test/Content/Assets/Texture_2D/Hall_Box.uasset",
+				"D:/SweetHalloween/SweetHalloween/MyProject_test/Content/Assets/Texture_2D/Mockup.uasset",
+				"D:/SweetHalloween/SweetHalloween/MyProject_test/Content/Assets/Texture_2D/Mockup_diningRoom.uasset",
+				"D:/SweetHalloween/SweetHalloween/MyProject_test/Content/Assets/Texture_2D/Texture_Ground.uasset",
 				"E:/Documents/Unreal Projects/MyProject_test/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Documents/Unreal Projects/MyProject_test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/Documents/Unreal Projects/MyProject_test/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
